@@ -9,6 +9,8 @@
 ### My Tech Toolbox 🧰
 
 <p align="left">
+ 
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png" alt="java" width="40" height="40"/> 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
@@ -23,7 +25,8 @@
 
 * My primary coding language: Java
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://csrepo.blogspot.com/) & make educational [YouTube Videos](https://www.youtube.com/channel/UCNnyXez3-1s06t8tkXuzY5g).
-* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
+* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting out their programming journey.
+* MongoDB Champion and MongoDB User Group Community Leader for Bangalore,India
 <!--* 🏠 Hogwarts House: Griffindor-->
 <!--* If you play Call of Duty- add me: Blackhood@00-->
 <!--* I am currently learning Docker-->
